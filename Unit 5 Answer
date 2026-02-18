@@ -1,0 +1,2 @@
+When you reference a non existing key in a dictionary, Python raises a KeyError.
+This can be avoided by, checking if the key exists using if key in dictionary, using dictionary.get(key), and using try and except KeyError
