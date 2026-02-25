@@ -1,0 +1,2 @@
+How can you create a while loop and conditionally exit it?
+A while loop runs as long as its condition evaluates to True. You can conditionally exit the loop by using an if statement inside the loop. When the specific condition is met, you can use the break statement to stop the loop immediately. 
