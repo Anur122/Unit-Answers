@@ -1,0 +1,2 @@
+When should you trap for exceptions?
+You should trap for exceptions when your program is doing something that could fail, like taking user input, opening files, or doing calculations. It helps prevent your program from crashing and lets you handle errors in a controlled way. This makes your program more reliable and user friendly. Instead of breaking, it can show a message or fix the issue and keep running.
