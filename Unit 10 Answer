@@ -1,0 +1,2 @@
+Explain how testing code improves your written code.
+Testing code catches bugs early. When you run tests on your code, you find mistakes before they become bigger problems. It forces you to think through any issues that may arise, it also gives you confidence when making changes to your code.
