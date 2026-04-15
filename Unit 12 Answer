@@ -1,0 +1,2 @@
+Collisions are checked between the spaceship and aliens to enable the game ending. What is the sprite utility used? What is the difference between that and the groupcollide in the previous question?
+The utility used is pygame.sprite.spritecollide, which checks if one sprite collides with any sprites in a group.It returns a list of collisions and is mainly used for things like detecting when the player gets hit. groupcollide is different because it checks two groups against each other and can remove them automatically when they collide.
