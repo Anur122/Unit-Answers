@@ -1,0 +1,2 @@
+Discuss how to avoid invalid data entries when reading from CSV data files.
+To avoid invalid data entries when reading from CSV files, you should always validate each row before processing it by checking data types, missing values, and expected formats. Using error handling like try and except helps prevent the program from crashing when encountering bad or unexpected data.
